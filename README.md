@@ -4,6 +4,10 @@
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [Matt Might: What Every CS Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
+## Cheat Sheets
+
+* [OverAPI: Python](https://overapi.com/python)
+* [OverAPI: Javascript](https://overapi.com/javascript)
 
 ## Full Stack Development
 
