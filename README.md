@@ -15,7 +15,7 @@
 * [Utku Ufuk: A Beginner's Roadmap to Becoming a Full-Stack Web Developer](https://utkuufuk.com/2019/05/12/fullstack-roadmap/)
 * [Stack Overflow: Progressive Web Apps](https://stackoverflow.com/tags/progressive-web-apps/info)
 
-## Web Development
+### Web Development
 
 * [Scotch.io](https://scotch.io/)
 * [The Odin Project](https://www.theodinproject.com/home)
