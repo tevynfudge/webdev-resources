@@ -23,6 +23,7 @@
 * [Eloquent JavaScript](https://eloquentjavascript.net)
 * [FreeCode Camp: JavaScript Data Structures & Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [The Modern JavaScript Tutorial](https://javascript.info)
+* [TutorialsPoint](https://www.tutorialspoint.com/reactjs/index.htm)
 
 ## Full Stack 
 * [Full Stack Python](https://www.fullstackpython.com/)
